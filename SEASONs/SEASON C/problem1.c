@@ -37,7 +37,7 @@ Output
 4 2
 101 100 99 98
 9 6
-100 7 6 5 4 3 2 1 100
+10 12 13 141 51 16 171 89 90
 
   
 Case #1: 2
@@ -45,7 +45,7 @@ Case #2: 0
 Case #3: 1
 
   
-/*
+
 #include<stdio.h>
 int main()
 {
@@ -92,4 +92,4 @@ int main()
         printf("Case #%d: %d\n",f+1,a[f]);
     return 0;
 }
-*/
+
